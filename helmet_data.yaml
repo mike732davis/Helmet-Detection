@@ -1,0 +1,6 @@
+
+train: helmetDataset\train\images
+val: helmetDataset\val\images
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
