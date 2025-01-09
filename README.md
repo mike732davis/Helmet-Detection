@@ -1,17 +1,17 @@
 # Helmet-Detection
 Helmet Detection with YOLOV8
 
-#Dataset Link: 
+# Dataset Link: 
 https://www.kaggle.com/datasets/andrewmvd/helmet-detection/data
 
-#Packages:
+# Packages:
 	python - 3.10.11
 	xmltodict - 0.14.2
 	opencv-python -  4.10.0.84
 	scikit-learn - 1.1.2
 	ultralytics - 8.3.58
 
-#Workflow:
+# Workflow:
 1) Download Dataset from Kaggle
 2) Create YOLO file for annotation from PASCAL VOC file (Annotation folder files) using packages xmltodict
 	opencv-python (vocToYolo.py)
